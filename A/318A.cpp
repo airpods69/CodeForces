@@ -16,4 +16,4 @@ int main() {
             cout << 2 + (k-(n/2)-2)*2; 
     }
     return 0;
-} 
+} //scjk
