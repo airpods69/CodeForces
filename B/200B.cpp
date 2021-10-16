@@ -11,6 +11,6 @@ int main() {
     }
 
     std::cout << sum;
-
+//fuck you
     return 0;
 }
